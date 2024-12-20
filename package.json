@@ -1,0 +1,19 @@
+{
+  "name": "cs-stringtolower",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "stringtolower"
+  ],
+  "author": "salvadorcs",
+  "license": "MIT",
+  "description": "stringtolower",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "files": ["lib/**/*"]
+}
