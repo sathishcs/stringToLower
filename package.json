@@ -1,6 +1,6 @@
 {
   "name": "cs-stringtolower",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -15,5 +15,7 @@
   "devDependencies": {
     "typescript": "^5.7.2"
   },
-  "files": ["lib/**/*"]
+  "files": [
+    "lib/**/*"
+  ]
 }
